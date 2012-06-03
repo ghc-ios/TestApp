@@ -1,4 +1,4 @@
-GHC_BUILD_DIR=/Users/jonathan.fischoff/projects/tools/ghc-iphone
+GHC_BUILD_DIR=/Users/$USER/projects/tools/ghc-iphone
 
 . $GHC_BUILD_DIR/env.sh
 export CROSS_COMPILE=arm-apple-darwin10-
